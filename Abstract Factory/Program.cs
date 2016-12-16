@@ -1,6 +1,6 @@
 using System;
 
-namespace patterns.AbstractFactory
+namespace Patterns.AbstractFactory
 {
     public class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace patterns.AbstractFactory
+﻿namespace Patterns.AbstractFactory
 {
 	public interface IBookFactory
 	{
